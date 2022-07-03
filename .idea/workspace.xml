@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12b787e9-c64b-4bf3-aca7-ae03b8e37397" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/HashTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HashTable">
     <configuration name="HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.HashTable" />
       <module name="hashtable-data-structures-generics" />
@@ -48,9 +49,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.hashtable.HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hashtable.HashTable" />
+      <module name="hashtable-data-structures-generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hashtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HashTable" />
+        <item itemvalue="Application.com.hashtable.HashTable" />
       </list>
     </recent_temporary>
   </component>
